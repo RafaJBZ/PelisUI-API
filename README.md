@@ -8,9 +8,13 @@ To install the app, simply clone or download the repository and open the `index.
 
 ## Usage
 
-To use the app, follow the instructions on the screen.
+To use the app, simply follow the instructions on the screen. You can test the app by visiting https://rafajbz.github.io/Pelis/.
 
-To test the app, visit https://rafajbz.github.io/Pelis/.
+## Features
+
+- Fetch movie data from the `themoviedb.org` API.
+- Display movie data in a visually appealing way using CSS.
+- Include a description and other relevant information for each movie.
 
 ## Known Issues
 
